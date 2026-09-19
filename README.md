@@ -441,8 +441,6 @@ CO5| Integrating visualizations into an interactive Power BI dashboard and devel
 
 The final Power BI dashboard is included in the "dashboard/" folder.
 
-Add the dashboard screenshot below:
-
 <img width="578" height="324" alt="Screenshot 2026-09-19 092950" src="https://github.com/user-attachments/assets/5adef8d2-9164-4c10-9305-4634209b6cd0" />
 
 
